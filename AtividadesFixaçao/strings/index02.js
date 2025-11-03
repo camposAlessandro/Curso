@@ -1,5 +1,5 @@
-const frase = "Java nao e JAVAscript"
+const frase = "Java nao e JaVascript"
 
-const frasecovertida = frase.replaceAll("a " , "e ") + frase.replaceAll("A " , "E ");
+const frasecovertida = frase.replaceAll("a" , "o")
 
 console.log(frasecovertida)
